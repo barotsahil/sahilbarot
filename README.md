@@ -11,8 +11,5 @@ Skills: Network Security / Incident Response / Vulnerability Assessment / Securi
 - 📫 How to reach me: barotsahil312@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/barotsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahil-barot-90a6041a7//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/barotsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahil-barot-90a6041a7//)  
 
-
-
-![barotsahil's Stats](https://github-readme-stats.vercel.app/api?username=barotsahil&theme=gruvbox&show_icons=true&hide_border=false&count_private=false)

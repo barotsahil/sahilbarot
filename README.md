@@ -8,6 +8,7 @@ I am actively seeking an internship or entry-level position where I can apply my
 Skills:
 
 👨‍💻🖥️  Network Security / Incident Response / Vulnerability Assessment / Security Awareness / Application Security / Penetration Testing 
+
  💻 PHP / Symfony / React JS / JavaScript /
 
 - 🌱 I’m currently learning SOC Level 1/2, Security Engineer, Pre-Security 

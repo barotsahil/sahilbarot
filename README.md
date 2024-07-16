@@ -1,6 +1,5 @@
 ### Hi there 👋, Sahil Barot
 #### Cyber Security Student
-![Cyber Security Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a final-year Cybersecurity student at University of Hertfordshire with strong skills in network security, ethical hacking, and digital forensics. I have hands-on experience with tools like Wireshark, Metasploit, and SIEM systems. I have an expereince of 2 years as a Full-Stack Developer. 
 

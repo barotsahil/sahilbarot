@@ -5,7 +5,9 @@ I am a final-year Cybersecurity student at University of Hertfordshire with stro
 
 I am actively seeking an internship or entry-level position where I can apply my technical expertise and passion for cybersecurity. I am eager to contribute to a forward-thinking organization, collaborate with experienced professionals, and help safeguard digital assets and infrastructure.
 
-Skills: Network Security / Incident Response / Vulnerability Assessment / Security Awareness / Application Security / Penetration Testing / PHP / Symfony / React JS / JavaScript /
+Skills:
+👨‍💻🖥️  Network Security / Incident Response / Vulnerability Assessment / Security Awareness / Application Security / Penetration Testing 
+ 💻 PHP / Symfony / React JS / JavaScript /
 
 - 🌱 I’m currently learning SOC Level 1/2, Security Engineer, Pre-Security 
 - 📫 How to reach me: barotsahil312@gmail.com 

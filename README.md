@@ -9,7 +9,7 @@ Skills:
 
 👨‍💻🖥️  Network Security / Incident Response / Vulnerability Assessment / Security Awareness / Application Security / Penetration Testing 
 
- 💻 PHP / Symfony / React JS / JavaScript /
+ 💻 AWS Services / PHP / Symfony / React JS / JavaScript /
 
 - 🌱 I’m currently learning SOC Level 1/2, Security Engineer, Pre-Security 
 - 📫 How to reach me: barotsahil312@gmail.com 
